@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>adoecommerce.BL</id>
+    <version>1.0.0</version>
+    <authors>adoecommerce.BL</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net9.0">
+        <dependency id="adoecommerce.DAL" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\4months\Ado\try3\adoecommerce\adoecommerce.BL\bin\Debug\net9.0\adoecommerce.BL.dll" target="lib\net9.0\adoecommerce.BL.dll" />
+  </files>
+</package>

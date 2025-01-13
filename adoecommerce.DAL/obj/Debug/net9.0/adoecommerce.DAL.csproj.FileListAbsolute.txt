@@ -1,0 +1,12 @@
+D:\4months\Ado\try3\adoecommerce\adoecommerce.DAL\bin\Debug\net9.0\adoecommerce.DAL.deps.json
+D:\4months\Ado\try3\adoecommerce\adoecommerce.DAL\bin\Debug\net9.0\adoecommerce.DAL.dll
+D:\4months\Ado\try3\adoecommerce\adoecommerce.DAL\bin\Debug\net9.0\adoecommerce.DAL.pdb
+D:\4months\Ado\try3\adoecommerce\adoecommerce.DAL\obj\Debug\net9.0\adoecommerce.DAL.csproj.AssemblyReference.cache
+D:\4months\Ado\try3\adoecommerce\adoecommerce.DAL\obj\Debug\net9.0\adoecommerce.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\4months\Ado\try3\adoecommerce\adoecommerce.DAL\obj\Debug\net9.0\adoecommerce.DAL.AssemblyInfoInputs.cache
+D:\4months\Ado\try3\adoecommerce\adoecommerce.DAL\obj\Debug\net9.0\adoecommerce.DAL.AssemblyInfo.cs
+D:\4months\Ado\try3\adoecommerce\adoecommerce.DAL\obj\Debug\net9.0\adoecommerce.DAL.csproj.CoreCompileInputs.cache
+D:\4months\Ado\try3\adoecommerce\adoecommerce.DAL\obj\Debug\net9.0\adoecommerce.DAL.dll
+D:\4months\Ado\try3\adoecommerce\adoecommerce.DAL\obj\Debug\net9.0\refint\adoecommerce.DAL.dll
+D:\4months\Ado\try3\adoecommerce\adoecommerce.DAL\obj\Debug\net9.0\adoecommerce.DAL.pdb
+D:\4months\Ado\try3\adoecommerce\adoecommerce.DAL\obj\Debug\net9.0\ref\adoecommerce.DAL.dll

@@ -1,0 +1,15 @@
+D:\4months\Ado\try3\adoecommerce\adoecommerce.BL\bin\Debug\net9.0\adoecommerce.BL.deps.json
+D:\4months\Ado\try3\adoecommerce\adoecommerce.BL\bin\Debug\net9.0\adoecommerce.BL.dll
+D:\4months\Ado\try3\adoecommerce\adoecommerce.BL\bin\Debug\net9.0\adoecommerce.BL.pdb
+D:\4months\Ado\try3\adoecommerce\adoecommerce.BL\bin\Debug\net9.0\adoecommerce.DAL.dll
+D:\4months\Ado\try3\adoecommerce\adoecommerce.BL\bin\Debug\net9.0\adoecommerce.DAL.pdb
+D:\4months\Ado\try3\adoecommerce\adoecommerce.BL\obj\Debug\net9.0\adoecommerce.BL.csproj.AssemblyReference.cache
+D:\4months\Ado\try3\adoecommerce\adoecommerce.BL\obj\Debug\net9.0\adoecommerce.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\4months\Ado\try3\adoecommerce\adoecommerce.BL\obj\Debug\net9.0\adoecommerce.BL.AssemblyInfoInputs.cache
+D:\4months\Ado\try3\adoecommerce\adoecommerce.BL\obj\Debug\net9.0\adoecommerce.BL.AssemblyInfo.cs
+D:\4months\Ado\try3\adoecommerce\adoecommerce.BL\obj\Debug\net9.0\adoecommerce.BL.csproj.CoreCompileInputs.cache
+D:\4months\Ado\try3\adoecommerce\adoecommerce.BL\obj\Debug\net9.0\adoecomm.25E2C459.Up2Date
+D:\4months\Ado\try3\adoecommerce\adoecommerce.BL\obj\Debug\net9.0\adoecommerce.BL.dll
+D:\4months\Ado\try3\adoecommerce\adoecommerce.BL\obj\Debug\net9.0\refint\adoecommerce.BL.dll
+D:\4months\Ado\try3\adoecommerce\adoecommerce.BL\obj\Debug\net9.0\adoecommerce.BL.pdb
+D:\4months\Ado\try3\adoecommerce\adoecommerce.BL\obj\Debug\net9.0\ref\adoecommerce.BL.dll
